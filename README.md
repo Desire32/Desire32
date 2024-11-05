@@ -1,4 +1,3 @@
-# Backend Developer
 
 ## **Programming Languages**
 <p align="left">
