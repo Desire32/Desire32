@@ -2,7 +2,7 @@
 
 ### **Programming Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=go,py,cpp" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=go,py" alt="Programming Languages" />
 </p>
 
 ### **Databases**
@@ -12,20 +12,15 @@
 
 ### **DevOps & Cloud**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,aws,gitlab" alt="DevOps & Cloud" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gitlab,redis,kafka" alt="DevOps & Cloud" />
 </p>
 
 ### **Operating Systems**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arch,debian,windows" alt="Operating Systems" />
+<img src="https://skillicons.dev/icons?i=arch,mac,windows" alt="Operating Systems" />
 </p>
 
 ### **Editors & Tools**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vim,neovim,vscode,postman" alt="Editors & Tools" />
-</p>
-
-### **Shells**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=bash" alt="Shells" />
+<img src="https://skillicons.dev/icons?i=grafana,postman,vscode,swagger" alt="Editors & Tools" />
 </p>
