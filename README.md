@@ -2,8 +2,8 @@
 
 ### Core Expertise & Toolbox
 
-*   **AI / ML & Foundations:** PyTorch • Reinforcement Learning • NumPy • Pandas • MLflow • Weights & Biases • ONNX • ROS2
-*   **Languages & Backend:** Python • C++ • Docker • Git
+*   **AI / ML:** PyTorch • Reinforcement Learning • NumPy • Pandas • MLflow • Weights & Biases • ONNX • ROS2
+*   **Languages:** Python • C++ • Docker • Git
 *   **Theory & Algorithms:** Graph Algorithms • Dynamic Programming • Markov Decision Processes (MDP) • Path Planning
 
 ---
