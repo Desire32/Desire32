@@ -18,7 +18,7 @@
 *   **Authors:** Louis Nisiotis, Nikita Markov
 *   Architected a deployment pipeline that achieved a **2.3× model size reduction** (from 1.1B parameters down to 470M) for Small Language Models (SLMs) integrated into virtual worlds.
 *   Leveraged **TVM, MLC-LLM, and multi-scheme quantization (INT3–INT8)** to optimize performance via ONNX and TensorRT (`trtexec`) directly on hardware-constrained NVIDIA Jetson edge devices.
-[Explore](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177273703.32888475/v1)
+[Explore](https://www.researchgate.net/publication/410084610_Quantization_at_the_Edge_Evaluating_Inference_Performance_and_Quality_for_SLM_Driven_Conversational_Agents_in_Virtual_Worlds)
 
 ---
 
